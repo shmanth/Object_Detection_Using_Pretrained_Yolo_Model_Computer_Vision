@@ -1,0 +1,2 @@
+# Object_Detection_Using_Pretrained_Yolo_Model_Computer_Vision
+object detection using pretrained YOLO model in Computer vision
